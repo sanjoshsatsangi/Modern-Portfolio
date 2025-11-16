@@ -39,7 +39,7 @@ function Hero() {
                 Contact Me
               </button>
               <a
-                href="#"
+                href="https://drive.google.com/file/d/1NHMowUTdlsiqkznxEaQbFD7lDKlhu1vs/view?usp=sharing"
                 className="px-8 py-3 bg-gray-800 text-white rounded-lg hover:bg-gray-900 transition-all transform hover:scale-105 flex items-center gap-2"
               >
                 <Download size={20} />
