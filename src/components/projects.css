@@ -1,0 +1,30 @@
+/* Arrow buttons */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #ffffff;
+  transform: scale(0.7);
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 20px !important;
+}
+
+/* Pagination dots styling */
+.swiper-pagination {
+  bottom: 10px !important; /* move dots upward onto the image */
+}
+
+.swiper-pagination-bullet {
+  background: #ffffff;
+  opacity: 0.5;
+  width: 5px;
+  height: 5px;
+  transition: all 0.3s ease;
+}
+
+.swiper-pagination-bullet-active {
+  background: #ffffff;
+  opacity: 1;
+  transform: scale(1.3);
+}
